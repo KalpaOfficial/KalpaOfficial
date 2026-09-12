@@ -1,51 +1,59 @@
+<div align="center">
 
+# Hey 👋 What's Up?
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=702cf6&center=true&vCenter=true&width=530&lines=Software+Engineering+Undergrad;Full-Stack+Web+Developer;Blockchain+Enthusiast" alt="Typing SVG" />
+  
+</div>
+ 
+## Full-Stack Developer | SE Undergraduate @ SLIIT
+ 
+</div>
+ 
+---
+<img width="20%" align="right" alt="Coding" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="220" />
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&duration=3000&color=00AEEF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Frontend+%7C+Backend+%7C+Database;Building+Modern+Web+Applications+🚀" />
-</p>
+### 🧑‍💻 About Me
+
+- 🔭 Currently building full-stack web apps and exploring scalable architectures
+- 🌱 Learning Blockchain development + deepening my distributed systems knowledge
+- ⚙️ Love working across the stack — from database design to UI polish
+- 🤝 Open to collaborations on startups, web apps & interesting side projects
+- 🎯 Fun fact: I run businesses alongside university — because why not? 
 
 ---
 
-### 🧩 Languages & Technologies
+### 🛠 Languages & Tools
 
-#### 🌐 **Frontend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind" />
-</p>
+<div align="center">
 
-#### 🖥️ **Backend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,py,java,kotlin&perline=9)](https://skillicons.dev)
 
-#### 🗄️ **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=postgres,prisma,mongodb,mysql,git,github,cloudflare,figma,aws&perline=9)](https://skillicons.dev)
 
-#### 🛠️ **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" />
-</p>
+</div>
 
 ---
 
-### 🎯 What I Can Do
-- 🏗️ Build full-stack web applications  
-- 🧭 Create REST APIs (Node.js / Express / Java)  
-- 🗄️ Design database schemas  
-- 🎨 Develop responsive & modern UIs  
-- ⚡ Optimize backend logic  
-- 🧪 Test APIs with Postman  
-- ☁️ Deploy projects on GitHub / Vercel / Render  
+### 🔗 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pawan-menuka-1356593aa)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanmenuka02@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pawan-Menuka)
+
+</div>
 
 ---
+### 📊 GitHub Stats
 
-### 📈 Currently Improving
-- Advanced Node.js  
-- Frontend Animations & UX  
-- Cloud deployment  
-- Mobile app development (Java & Kotlin)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pawan-Menuka&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+
 
 ---
